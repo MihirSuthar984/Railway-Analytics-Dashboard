@@ -22,8 +22,7 @@ The dashboard helps users understand railway operations, passenger statistics, s
 - **Power Query** — Data cleaning and transformation
 - **DAX** — Measures and calculations, where applicable
 
- <img width="1378" height="745" alt="RAIL_DASH_1" src="https://github.com/user-attachments/assets/6df6d6a1-8e64-4ea7-96df-1eb3ea6420c1" />
-
+<img width="1376" height="745" alt="RAIL_DASH_1" src="https://github.com/user-attachments/assets/6c71929b-d19d-4065-9324-e46520c132af" />
 
 📊 Dashboard Features
 
@@ -53,9 +52,12 @@ Uses Power BI visuals and filters to explore railway data and compare available 
 
 📍 Stations Analyzed
 
-- Mumbai Central
-- Bengaluru
-- 120 More All over the INDIA
+The dashboard analyzes railway data across stations throughout India, providing insights into train arrivals, average daily passengers, passenger cleanliness ratings, overall station ratings, and geographical station distribution.
+
+It helps users explore railway performance and passenger-related information across India through interactive Power BI visualizations.
+
+ <img width="1376" height="741" alt="RAIL_DASH_2" src="https://github.com/user-attachments/assets/44a82426-4c68-4b42-9a68-c01d5e5dfbfa" />
+
 
 
 🔍 Key Insights
@@ -68,7 +70,8 @@ The dashboard is designed to help explore:
 - Differences in overall station ratings.
 - Geographical distribution of railway stations.
 
-**Note:** Specific findings and numerical conclusions should be added after reviewing the actual dashboard results.
+<img width="1379" height="737" alt="RAIL_DASH_5" src="https://github.com/user-attachments/assets/696ebc11-ce63-4c00-8055-5ee8897c2f7f" />
+
 
 🚀 How to Run the Project
 
