@@ -22,6 +22,9 @@ The dashboard helps users understand railway operations, passenger statistics, s
 - **Power Query** — Data cleaning and transformation
 - **DAX** — Measures and calculations, where applicable
 
+ <img width="1378" height="745" alt="RAIL_DASH_1" src="https://github.com/user-attachments/assets/6df6d6a1-8e64-4ea7-96df-1eb3ea6420c1" />
+
+
 📊 Dashboard Features
 
 1. Daily Train Arrivals
