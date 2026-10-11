@@ -56,7 +56,8 @@ The dashboard analyzes railway data across stations throughout India, providing 
 
 It helps users explore railway performance and passenger-related information across India through interactive Power BI visualizations.
 
- <img width="1376" height="741" alt="RAIL_DASH_2" src="https://github.com/user-attachments/assets/44a82426-4c68-4b42-9a68-c01d5e5dfbfa" />
+<img width="1350" height="742" alt="image" src="https://github.com/user-attachments/assets/23b9e40e-1443-49e8-b7d8-70b1bacc39e6" />
+
 
 
 
