@@ -1,4 +1,3 @@
-Railway-Analytics-Dashboard
 🚆 Railway Analytics Dashboard | Power BI
 
 📌 Project Overview
